@@ -41,11 +41,7 @@ templateClass: tmpl-post
   "genre": "{{ metadata.genre }}", 
   "publisher": {
     "@type": "Organization",
-    "name": "{{ metadata.publisher.name }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ '/img/favicon/favicon-192x192.png' | addHash }}"
-    }
+    "name": "{{ metadata.publisher.name }}"
   },
   "url": "{{ metadata.url }}{{ canonicalUrl or page.url }}",
   "mainEntityOfPage": "{{ metadata.url }}{{ canonicalUrl or page.url }}",

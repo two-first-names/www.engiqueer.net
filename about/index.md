@@ -7,6 +7,11 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+Just a queer engineer. Check out my [Manual of Me](/manual-of-me) for something more indepth.
 
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+## How to reach me
+
+I really don't have a huge preference on how you get in touch with me, but these are my preferred 'front doors'. If we know each other, I'll probably tell you where to contact me.
+
+Email: [joe@engiqueer.net](mailto:joe@engiqueer.net)
+Mastodon: https://tech.lgbt/@twofirstnames

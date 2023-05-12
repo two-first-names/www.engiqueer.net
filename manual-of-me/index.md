@@ -24,7 +24,7 @@ Usual disclaimers apply, this is super WIP, will update as I think of things!
 
 - Generally, I keep to core hours of 1000-1600. I'll usually be around before and after, but those are when I'm definitely available.
 
-- Outside of work, if I like you, I might responsd at any time. Just know the people paying me take priority.
+- Outside of work, if I like you, I might respond at any time. Just know the people paying me take priority.
 
 ## The best way to communicate with me
 
